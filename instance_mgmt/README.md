@@ -108,13 +108,5 @@ Public IP of instance 'i-0123456789abcdef0': 203.0.113.0
 
 Feel free to open issues or submit pull requests if you find bugs or have suggestions for improvements.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- [Boto3 Documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
-- [AWS EC2 Documentation](https://docs.aws.amazon.com/ec2/index.html)
 
 ---
