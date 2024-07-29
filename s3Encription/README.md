@@ -33,5 +33,9 @@
 1. Write the code which is given in "encryptioncheck.py".
 2. Deploy the code and test it.
 3. The output should be like 
+
+'''
 Bucket: rakshi2107, Encryption: [{'ApplyServerSideEncryptionByDefault': {'SSEAlgorithm': 'AES256'}, 'BucketKeyEnabled': True}]
+
 Bucket: rakshi2508, Encryption: [{'ApplyServerSideEncryptionByDefault': {'SSEAlgorithm': 'AES256'}, 'BucketKeyEnabled': False}] 
+'''
