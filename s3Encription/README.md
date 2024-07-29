@@ -1,9 +1,3 @@
-## Prerequisites
-
-- AWS Account
-- IAM permissions to create roles and policies
-- Basic understanding of AWS S3 and Lambda
-
 ## Steps
 
 ### 1. S3 Setup
