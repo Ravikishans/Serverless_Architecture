@@ -22,7 +22,7 @@ This project sets up an automated alerting mechanism to monitor your AWS billing
 4. Attach the following policies:
    - **CloudWatchReadOnlyAccess**
    - **AmazonSNSFullAccess**
-5. Click **Next**, provide a role name (e.g., `LambdaBillingAlertRole`), and create the role.
+5. Click **Next**, provide a role name (e.g., `awsBilling`), and create the role.
 
 ## Lambda Function
 
